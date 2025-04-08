@@ -1,6 +1,5 @@
 # Analisador de Projeto
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/alissonphp/analisador-projeto)](https://goreportcard.com/report/github.com/alissonphp/analisador-projeto)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/alissonphp/analisador-projeto)](go.mod)
 
